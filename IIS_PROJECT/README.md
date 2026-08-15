@@ -1,6 +1,6 @@
 
 
-# 🏫 TCOE Campus Navigator
+# 🏫 TCET Campus Navigator
 
 **Interactive shortest-path finder for Thakur College of Engineering & Technology**
 
